@@ -5,6 +5,9 @@ Author: Nok Unphon
 Contact: nok@unphon.com
 Version: 2017-07-07
 ```
+## Prerequisite
+* Canon EOS M10
+* Formatted SD card
 
 ## Instructions
 * Copy DCIM folder to your SD card
@@ -13,3 +16,5 @@ Version: 2017-07-07
 
 Enjoy :-)
 
+## Notes
+All photos are copied from Canon official website http://goto.canon.co.th/eosclub/MyToneMyM10/
